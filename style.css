@@ -228,12 +228,14 @@ body {
 @media (min-width: 415px) {
   body {
     display: flex;
+    flex-direction: column; /* Changed flex direction to column */
+    justify-content: center; /* Justified content to center vertically */
     align-items: center;
   }
   .container {
     flex-direction: row;
     background-color: var(--light-white);
-    margin: 0 auto;
+    margin: auto; /* Changed margin to auto to align the container to the middle */
     border-radius: 30px;
   }
 
@@ -261,9 +263,7 @@ body {
   }
 
   .attribution {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    display: block;
+    margin: 0 auto;
   }
 }
