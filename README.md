@@ -29,17 +29,20 @@ Users should be able to:
 
 ### Screenshot
 
+Screenshots of the site to give you a quick view of the site on both the desktop and mobile view.
+
+### Desktop view
+
 ![](./assets/images/screenshot-desktop.png)
+
+### Mobile view
 
 ![](./assets/images/screenshot-mobile.png)
 
-A screenshot of the site to give you a quick view of the site on both the desktop and mobile view.
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/ebeeraheem/results-summary)
+- Live Site URL: [GitHub Page](https://ebeeraheem.github.io/results-summary/)
 
 ## My process
 
@@ -63,13 +66,13 @@ I would love to dive deeper into flex and grid layouts. I believe they're very p
 
 For this project, like usual, I googled a ton of things, even basic things that I honestly should've know by heart at this point. I also used the free version of OpenAI's ChatGPT and Google Bard.
 
-Can't forget the MDN Web Docs now can I. Best guide I've received so far in my journey.
+Can't forget the [MDN Web Docs](https://developer.mozilla.org/en-US/) now can I. Best guide I've received so far in my journey.
 
 ## Author
 
 - Website - [Ibrahim Suleiman Muhammad]("https://ebeesule.carrd.co/")
 - Frontend Mentor - [@ebeeraheem](https://www.frontendmentor.io/profile/ebeeraheem)
-- Instagram - [@ebee_sule] (https://www.instagram.com/ebee_sule)
+- Instagram - [@ebee_sule](https://www.instagram.com/ebee_sule)
 - Twitter - [@ebeesule](https://www.twitter.com/ebeesule)
 
 ## Acknowledgments
