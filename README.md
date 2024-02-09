@@ -1,3 +1,5 @@
+# PRACTICE PROJECT
+
 # Frontend Mentor - Results summary component solution
 
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -70,7 +72,7 @@ Can't forget the [MDN Web Docs](https://developer.mozilla.org/en-US/) now can I.
 
 ## Author
 
-- Website - [Ibrahim Suleiman Muhammad]("https://ebeesule.carrd.co/")
+- Website - [Ibrahim Suleiman Muhammad]("https://ebeesule.netlify.app/")
 - Frontend Mentor - [@ebeeraheem](https://www.frontendmentor.io/profile/ebeeraheem)
 - Instagram - [@ebee_sule](https://www.instagram.com/ebee_sule)
 - Twitter - [@ebeesule](https://www.twitter.com/ebeesule)
